@@ -3,6 +3,7 @@ import Footer from "../src/components/Footer";
 import ScholarshipCard from "../src/components/ScholarshipCard"; 
 import ScholarshipOpportunities from "../src/components/ScholarshipOpportunities";
 
+
 export default function Home() {
   return (
     <div className="min-h-screen bg-gray-100 text-gray-900">
